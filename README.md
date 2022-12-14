@@ -3,7 +3,7 @@ Salve! ☯️
 </div>
 
 - 💻 Front-end Developer
-- 🧠 HTML5, CSS3, PHP, Photoshop & Sony Vegas
+- 🧠 HTML5, CSS3, PS, SV
 - 📖 Studying JavaScript
 
 ##
