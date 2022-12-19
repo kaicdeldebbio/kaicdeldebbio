@@ -32,9 +32,11 @@ Welcome! ☯️
 
 <div align="center">
   Socials ☯️
-</div>
 <br>
   
+Caso esteja interessado(a) em me contatar para uma oportunidade de trabalho, freelancer, ou até mesmo se você for outro(a) dev que precisa de ajuda ou gostaria de fazer   um projeto em conjunto; irei deixar minhas principais redes sociais:
+</div>
+
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCRBhQIWkTKPwwFhFx5kl26g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/kaicdeldebbio" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
