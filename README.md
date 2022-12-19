@@ -3,10 +3,10 @@
 Welcome! ☯️
 </div>
 
-- 💻 Front-end Developer
-- 🧠 HTML5, CSS3, PS, SV
-- 📖 Studying JavaScript
-- 🗺️ Brazil - São Paulo
+- 💻 | Front-end Developer
+- 🧠 | HTML5, CSS3, PS, SV
+- 📖 | Studying JavaScript
+- 🌍 | São Paulo
 
 ##
 
