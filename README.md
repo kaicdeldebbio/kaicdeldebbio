@@ -5,10 +5,10 @@
 </div>
 
 <div>
-  <h3 align="center">GET RICH<br> OR DIE TRYIN'
+  <h2 align="center">GET RICH<br> OR DIE TRYIN'
     <br>
 🇧🇷
-  </h3>
+  </h2>
 </div>
 
 <div align="center">
