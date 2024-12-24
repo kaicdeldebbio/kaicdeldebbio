@@ -1,5 +1,11 @@
+<div align="center">
+  
+[![MasterHead](https://cdn3.emoji.gg/emojis/9588-cash.gif)](https://rishavchanda.io)
+  
+</div>
+
 <div>
-  <h1 align="center">RISK // RICH</h1>
+  <h1 align="center">GET RICH OR DIE TRYIN'</h1>
 </div>
 
 <div align="center">
@@ -15,3 +21,4 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
