@@ -1,7 +1,17 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1311822455974793326/1321222207539642398/1.png?ex=676c7391&is=676b2211&hm=8346a828234c374755dd4cd6f21b502c82015d836f5ce7a716f46710f7122fc2&)](https://rishavchanda.io)
+<div>
+  <h1 align="center">RISK // RICH</h1>
+</div>
 
-<h1 align="center">RISK // RICH</h1>
-<p align="center">Developer </p>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaicdeldebbio&" alt="kaicdeldebbio" />
+</div>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaicdeldebbio&" alt="kaicdeldebbio" />
-
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
