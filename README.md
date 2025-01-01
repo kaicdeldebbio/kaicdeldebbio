@@ -11,11 +11,6 @@
   </h2>
 </div>
 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaicdeldebbio&" alt="kaicdeldebbio" />
-</div>
-
-
   <h3 align="center">// SKILLS</h1>
 <div align="center" style="display: inline_block">
 
