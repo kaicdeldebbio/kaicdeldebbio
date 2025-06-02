@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <h2 align="center">GET RICH OR DIE TRYIN' 🇧🇷</h2>
+  <h2 align="center">GET RICH OR DIE TRYIN'</h2>
 </div>
 
 <div align="center" style="display: inline_block">
