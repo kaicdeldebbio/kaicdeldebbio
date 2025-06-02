@@ -5,13 +5,9 @@
 </div>
 
 <div>
-  <h2 align="center">GET RICH<br> OR DIE TRYIN'
-    <br>
-🇧🇷
-  </h2>
+  <h2 align="center">GET RICH OR DIE TRYIN' 🇧🇷</h2>
 </div>
 
-  <h3 align="center">// SKILLS</h1>
 <div align="center" style="display: inline_block">
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
