@@ -8,7 +8,7 @@
   <h2 align="center">GET RICH OR DIE TRYIN'</h2>
 </div>
 
-[![Kaic Del Debbi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaicdeldebbio&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kaic Del Debbio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaicdeldebbio&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center" style="display: inline_block">
